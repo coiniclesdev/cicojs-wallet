@@ -42,7 +42,7 @@
     "buffer": "^5.1.0",
     "coinselect": "^3.1.11",
     "hash.js": "^1.1.5",
-    "cicod-rpc": "^0.0.2",
+    "cicod-rpc": "^0.0.4",
     "cicojs-lib": "^0.0.8",
     "safe-buffer": "^5.1.1",
     "scryptsy": "^2.0.0",
