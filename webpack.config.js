@@ -15,9 +15,9 @@ module.exports = {
     extensions: ['.ts', '.js']
   },
   output: {
-    filename: 'qtum-wallet.js',
+    filename: 'cico-wallet.js',
     path: path.resolve(__dirname, 'dist'),
-    library: "QtumWallet",
+    library: "CicoWallet",
     libraryTarget: "umd",
   }
 }
